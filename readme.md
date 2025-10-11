@@ -1,4 +1,3 @@
-
 ---
 title: "SenseBox Shield (Arduino)"
 date: "2018-10-01T15:02:45.000Z"
