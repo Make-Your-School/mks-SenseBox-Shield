@@ -3,7 +3,7 @@ title: "SenseBox Shield (Arduino)"
 date: "2018-10-01T15:02:45.000Z"
 tags: 
   - "shield"
-coverImage: "68_sensebox_shield_arduino.jpg"
+coverImage: "68_sensebox_shield_arduino.png"
 material_number: "68"
 material_type: "shield"
 material_short_descr: "SenseBox – Home Shield"
