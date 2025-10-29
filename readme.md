@@ -14,6 +14,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SenseBox-Shield.git"
 repo_prefix: "mks"
 repo_part: "Shield"
 embedded_example_file: "examples/Shield_minimal/Shield_minimal.ino"
+title: 'SenseBox Shield (Arduino)'
+status: 'EOL'
+difficulty: 'expert'
 ---
 
 
